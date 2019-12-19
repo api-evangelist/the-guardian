@@ -1,0 +1,151 @@
+{
+    "name": "The Guardian",
+    "description": "<p>The Guardian is a British national daily newspaper which has grown into a national paper associated with a complex organisational structure and an international multimedia and web presence. The Guardian provides API access to articles accessible by tag and section, and a suite of open source data and tools. The Guardian makes content accessible to increase traffic, brand awareness, and as a marketing vehicle, including partnership opportunities via platform program.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/the-guardian-logo.png",
+    "tags": [
+        "api united kingdom",
+        "data",
+        "general data",
+        "have api",
+        "news",
+        "pedestal",
+        "relative data",
+        "service api",
+        "streams"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/the-guardian\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "The Guardian",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/the-guardian-logo.png",
+            "humanURL": "http:\/\/www.guardian.co.uk\/open-platform",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/the-guardian.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/the-guardian-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Access Tiers",
+            "url": "http:\/\/open-platform.theguardian.com\/access\/"
+        },
+        {
+            "type": "Base",
+            "url": "http:\/\/content.guardianapis.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.theguardian.com\/open-platform\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.theguardian.com\/open-platform\/blog\/rss"
+        },
+        {
+            "type": "Chrome Extension",
+            "url": "http:\/\/www.theguardian.com\/open-platform\/blog\/idio-guardian-chrome-extension"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/organization\/the-guardian"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/open-platform.theguardian.com\/access\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/open-platform.theguardian.com\/documentation\/"
+        },
+        {
+            "type": "Email",
+            "url": "openplatform@guardian.co.uk"
+        },
+        {
+            "type": "Events",
+            "url": "http:\/\/developers.theguardian.com\/events-&-talks.html"
+        },
+        {
+            "type": "Explorer",
+            "url": "http:\/\/open-platform.theguardian.com\/explore\/"
+        },
+        {
+            "type": "FAQ",
+            "url": "http:\/\/www.theguardian.com\/open-platform\/faq"
+        },
+        {
+            "type": "Forums",
+            "url": "http:\/\/groups.google.com\/group\/guardian-api-talk\/"
+        },
+        {
+            "type": "Getting Started",
+            "url": "http:\/\/www.theguardian.com\/open-platform\/getting-started"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/guardian"
+        },
+        {
+            "type": "Java Library",
+            "url": "http:\/\/code.google.com\/p\/openplatform-java\/w\/list"
+        },
+        {
+            "type": "Partners",
+            "url": "http:\/\/www.theguardian.com\/open-platform\/partner-programs"
+        },
+        {
+            "type": "PHP Library",
+            "url": "http:\/\/code.google.com\/p\/openplatform-php\/"
+        },
+        {
+            "type": "Python Library",
+            "url": "http:\/\/code.google.com\/p\/openplatform-python\/"
+        },
+        {
+            "type": "Registration",
+            "url": "http:\/\/guardian.mashery.com\/member\/register"
+        },
+        {
+            "type": "Slideshare",
+            "url": "http:\/\/www.slideshare.net\/openplatform"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "http:\/\/www.theguardian.com\/open-platform\/terms-and-conditions"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/gdndevelopers"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GuardianData"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.guardian.co.uk\/open-platform"
+        },
+        {
+            "type": "Wikipedia ",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/The_Guardian"
+        },
+        {
+            "type": "Wordpress Plugin",
+            "url": "http:\/\/www.theguardian.com\/open-platform\/news-feed-wordpress-plugin"
+        }
+    ]
+}
