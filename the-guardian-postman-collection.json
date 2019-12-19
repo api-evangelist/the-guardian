@@ -1,0 +1,105 @@
+{
+    "id": "5fb25dcd4cdb797b6e1c7faae23d369b",
+    "name": "The Guardian",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": [
+        {
+            "id": "5d0e50d99e6dd16f8813c9ad9b75da94",
+            "name": "Search",
+            "url": "httpscontent.guardianapis.com\/search",
+            "description": "Searches news content across the Guardian news platform.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "5fb25dcd4cdb797b6e1c7faae23d369b",
+            "rawModeData": ""
+        },
+        {
+            "id": "97e098878dacae86f6e229a915d1972b",
+            "name": "Tags",
+            "url": "httpscontent.guardianapis.com\/tags",
+            "description": "Retrieves the tags used across the Guardian news platform.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "5fb25dcd4cdb797b6e1c7faae23d369b",
+            "rawModeData": ""
+        },
+        {
+            "id": "ac6b332db1f7082871e2a6fe397e57ef",
+            "name": "Sections",
+            "url": "httpscontent.guardianapis.com\/sections",
+            "description": "Retrieves the sections used across the Guardian news platform.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "5fb25dcd4cdb797b6e1c7faae23d369b",
+            "rawModeData": ""
+        },
+        {
+            "id": "dd9529ad37986a564966675052929bca",
+            "name": "Editions",
+            "url": "httpscontent.guardianapis.com\/editions",
+            "description": "Retrieves the editions of the Guardian news platform.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "5fb25dcd4cdb797b6e1c7faae23d369b",
+            "rawModeData": ""
+        }
+    ]
+}
