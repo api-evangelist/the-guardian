@@ -1,5 +1,5 @@
 {
-    "id": "5fb25dcd4cdb797b6e1c7faae23d369b",
+    "id": "27baac99e328cf7b0be267086d6c9566",
     "name": "The Guardian",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "5d0e50d99e6dd16f8813c9ad9b75da94",
+            "id": "6411d426b45f60da04b3cd3013291772",
             "name": "Search",
             "url": "httpscontent.guardianapis.com\/search",
             "description": "Searches news content across the Guardian news platform.",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "5fb25dcd4cdb797b6e1c7faae23d369b",
+            "collectionId": "27baac99e328cf7b0be267086d6c9566",
             "rawModeData": ""
         },
         {
-            "id": "97e098878dacae86f6e229a915d1972b",
+            "id": "ab499dc2c214b5a377ec1565295a46ee",
             "name": "Tags",
             "url": "httpscontent.guardianapis.com\/tags",
             "description": "Retrieves the tags used across the Guardian news platform.",
@@ -52,11 +52,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "5fb25dcd4cdb797b6e1c7faae23d369b",
+            "collectionId": "27baac99e328cf7b0be267086d6c9566",
             "rawModeData": ""
         },
         {
-            "id": "ac6b332db1f7082871e2a6fe397e57ef",
+            "id": "8ede36172b2d77c1bfa939079902b82d",
             "name": "Sections",
             "url": "httpscontent.guardianapis.com\/sections",
             "description": "Retrieves the sections used across the Guardian news platform.",
@@ -75,11 +75,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "5fb25dcd4cdb797b6e1c7faae23d369b",
+            "collectionId": "27baac99e328cf7b0be267086d6c9566",
             "rawModeData": ""
         },
         {
-            "id": "dd9529ad37986a564966675052929bca",
+            "id": "b7c4ae29a11f17cf916e3ab050317545",
             "name": "Editions",
             "url": "httpscontent.guardianapis.com\/editions",
             "description": "Retrieves the editions of the Guardian news platform.",
@@ -98,7 +98,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "5fb25dcd4cdb797b6e1c7faae23d369b",
+            "collectionId": "27baac99e328cf7b0be267086d6c9566",
             "rawModeData": ""
         }
     ]
