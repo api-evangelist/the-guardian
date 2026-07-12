@@ -23,10 +23,16 @@ apis:
       - type: Documentation
         url: http://open-platform.theguardian.com/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/the-guardian-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/the-guardian-domain-security.yml
   - type: Website
     url: http://open-platform.theguardian.com/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.theguardian.com/info/developer-blog/rss
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
