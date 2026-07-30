@@ -1,4 +1,16 @@
 aid: the-guardian
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/the-guardian.png
 name: The Guardian
 description: "Access all the content the Guardian creates, categorised by tags and section"
 url: http://open-platform.theguardian.com/
